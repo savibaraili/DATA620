@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/networkx/networkx/main/networkx/generators/social.py
